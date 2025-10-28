@@ -9,11 +9,11 @@ function Landing() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24">
           <div className="text-center">
             <h1 className="text-5xl md:text-6xl font-bold text-gray-900 dark:text-white mb-6">
-              Streamline Your HR Operations
+              Connecting Talent with Opportunity
               <span className="text-indigo-600 dark:text-indigo-400"> with AI</span>
             </h1>
             <p className="text-xl text-gray-600 dark:text-gray-300 mb-8 max-w-3xl mx-auto">
-              Transform your HR processes with our comprehensive suite of tools. From candidate screening to document generation, we've got everything you need in one place.
+              Connects smart students with smarter recruiters. With features like automated screening, AI-driven evaluations, and seamless profile management, it makes hiring faster, fairer, and simpler.
             </p>
             <Link
               to="/login"
@@ -33,7 +33,7 @@ function Landing() {
             Everything You Need in One Platform
           </h2>
           <p className="text-xl text-gray-600 dark:text-gray-300">
-            Powerful features designed to make HR management effortless
+            Powerful features designed to make HR-Student management effortless
           </p>
         </div>
 
