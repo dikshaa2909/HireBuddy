@@ -46,5 +46,7 @@ Frontend and backend are hosted on Vercel, connected to Firebase for database an
 
 Diksha Deware
 Full Stack + AI Developer
-🔗 GitHub
- | LinkedIn
+🔗 GitHub :-  https://github.com/dikshaa2909
+ | LinkedIn :- https://www.linkedin.com/in/diksha-deware-77a9772b5/
+ X :- https://x.com/diiksshaaaa
+ 
